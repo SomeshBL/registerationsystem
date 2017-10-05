@@ -26,3 +26,6 @@ Steps to run the application :
 5. Now navigate to directory registerationsystem where the project is cloned and run command mvn clean install
 
 6. Navigate to directory userregisteration-ws and run command mvn spring-boot:run
+
+
+<b>Note :</b> You can access the H2 Database using url http://localhost:18080/h2
