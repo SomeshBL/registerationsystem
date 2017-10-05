@@ -2,15 +2,15 @@
 
 Technologies Used:
 
-Spring Boot</br>
-Spring Data JPA</br>
-Spring Boot Jersey</br>
-Hibernate</br>
-Jackson</br>
+<font><b>Spring Boot</b></font></br>
+<font><b>Spring Data JPA</b></font></br>
+<font><b>Spring Boot Jersey</b></font></br>
+<font><b>Hibernate</b></font></br>
+<font><b>Jackson</b></font></br>
 
 Database Used:
 
-H2 - In memory database
+<font><b>H2 - In memory database</b></font>
 
 
 Steps to run the application :
