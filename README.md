@@ -1,4 +1,4 @@
-# registerationsystem
+# RegisterationSystem
 
 Steps to run the application :
 
