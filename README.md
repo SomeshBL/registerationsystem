@@ -1,5 +1,18 @@
 # RegisterationSystem
 
+Technologies Used:
+
+Spring Boot
+Spring Data JPA
+Spring Boot Jersey
+Hibernate
+Jackson
+
+Database Used:
+
+H2 - In memory database
+
+
 Steps to run the application :
 
 1. Install JDK8 on the system.
