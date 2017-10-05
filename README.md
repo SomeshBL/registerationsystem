@@ -2,11 +2,11 @@
 
 Technologies Used:
 
-Spring Boot
-Spring Data JPA
-Spring Boot Jersey
-Hibernate
-Jackson
+Spring Boot</br>
+Spring Data JPA</br>
+Spring Boot Jersey</br>
+Hibernate</br>
+Jackson</br>
 
 Database Used:
 
